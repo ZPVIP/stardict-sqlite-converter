@@ -1,0 +1,2 @@
+stardict-sqlite-converter
+=========================
